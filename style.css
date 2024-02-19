@@ -1,0 +1,14 @@
+.nav-link > ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.nav-link > ul > li {
+    display: inline;
+    
+}
+.nav-img {
+    display: flex;
+    margin: 
+}
